@@ -1,0 +1,14 @@
+﻿body
+img {
+width:30%;
+max-width:50%;
+height:auto;
+vertical-align:central;
+}
+
+/*Tablet view*/
+
+@media (min-width:768px){
+    
+
+}
